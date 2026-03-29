@@ -14,6 +14,7 @@ I designed a professional infographic using a three-strip horizontal layout to b
 I established a strategic professional presence across three key platforms. I mapped out a four-year plan to use LinkedIn for networking, GitHub as a live repository for my Python code, and Kaggle for advanced data science practice
 # task 3
 I practiced core technical and data collection skills by solving Python introductory challenges on HackerRank and building an interactive Digital Literacy Quiz via Google Forms.
+google form link   https://forms.gle/pVEVyqkqAxUnb4rA7
 # task 4
 I drafted professional email templates for requesting assignment extensions and inquiring about summer internships. This task emphasized digital etiquette, including the importance of clear subject lines, formal greetings.
 # task 5
